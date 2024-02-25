@@ -1,5 +1,10 @@
 # Fraud Detection Project
 
+## Project Resources
+
+- ["Challenge.ipynb" - Identifying Outliers using Standard Deviation and Interquartile Range.](https://github.com/jancichocki/Module_7_Challenge/blob/main/challenge.ipynb)
+- ["Visual Data Analysis.ipynb" - Visual Data Analysis of Fraudulent Transactions.](https://github.com/jancichocki/Module_7_Challenge/blob/main/visual_data_analysis.ipynb)
+
 ## Overview
 Fraudulent transactions represent a significant threat to financial institutions and their customers. Detecting and preventing fraud is crucial for maintaining trust and financial stability. In this project, we explore various methods and techniques for identifying potential fraudulent transactions using statistical analysis, SQL queries, and visualizations.
 
